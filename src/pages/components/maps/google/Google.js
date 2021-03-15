@@ -80,7 +80,7 @@ class Maps extends React.Component {
         >
           <div className={s.MapContainer}>
             <BasicMap
-              googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyCmx3h22_Jhx9gKY8sw3TL7TpT5_9J_Dxk"
+              googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key="
               // AIzaSyDMZ5gFd5QkEFUdi6PNmDWMVIjnSUfS6OY
               loadingElement={<div style={{ height: 'inherit', width: 'inherit' }} />}
               containerElement={<div style={{ height: 'inherit' }} />}
